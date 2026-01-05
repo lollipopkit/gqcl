@@ -9,7 +9,7 @@ import (
 
 	toml "github.com/pelletier/go-toml/v2"
 	"gopkg.in/yaml.v3"
-	"gqcl"
+	"github.com/lollipopkit/gqcl"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"gqcl"
+	"github.com/lollipopkit/gqcl"
 )
 
 func evalWithInput(t *testing.T, expr string, input string, force string) gqcl.Value {
